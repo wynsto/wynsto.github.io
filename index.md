@@ -2,7 +2,7 @@
 
 ## Education
 
-**[University Of Hong Kong](http://www.hku.hk)**
+**[The University of Hong Kong](http://www.hku.hk)**
 ---
 
 Master of Science (Computer Science)
