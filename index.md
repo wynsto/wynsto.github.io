@@ -4,7 +4,7 @@
 
 ---
 
-**[The University of Hong Kong 香港大学](http://www.hku.hk)**
+**[The University of Hong Kong 香港大學](http://www.hku.hk)**
 
 
 Master of Science (Computer Science)
@@ -27,7 +27,7 @@ Bachelor of Engineering in Electronic Information
 
 ---
 
-### [China CITIC Bank International Ltd 中信银行国际](https://www.cncbinternational.com) [Hong Kong🇭🇰]
+### [China CITIC Bank International Ltd 中信銀行國際](https://www.cncbinternational.com) [Hong Kong🇭🇰]
 
 
 >Hong Kong-based full-service commercial bank with more than 100 years history
@@ -67,7 +67,7 @@ Software Engineer
 ---
 
 
-### [Baidu 百度](https://www.baidu.com) [Shanghai🇨🇳]
+### [Baidu 百度中国](https://www.baidu.com) [Shanghai🇨🇳]
 
 >Leading Search Engine/Artifical Intelligence Corporation in China
 
