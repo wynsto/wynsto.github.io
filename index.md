@@ -15,7 +15,7 @@ Bachelor of Engineering in Electronic Information
 *Sep. 2009 - Jun. 2013*
 
 ## Working Experience
-### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong]
+### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong🇭🇰]
 
 >Hong Kong-based full-service commercial bank with more than 100 years history
 
@@ -38,7 +38,7 @@ PBG Business Transformation/Tech Chapter
 
 
 
-### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore]
+### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore🇸🇬]
 >Leading Singaporean Proprietary Trading Firm
 
 *Jun. 2018 – Mar. 2020*
@@ -49,7 +49,7 @@ Software Engineer
 * Algo Trading System
 * Risk Management System
 
-### [Baidu](https://www.baidu.com) [Shanghai]
+### [Baidu](https://www.baidu.com) [Shanghai🇨🇳]
 >Leading Search Engine/Artifical Intelligece Corporation in China
 
 *Mar 2015 – Aug  2016*
@@ -59,7 +59,7 @@ Senior Software Engineer
 * UAQ (百度速度监测平台)
 * APM (Application Performance Management System)
 
-### [Citi](https://www.citi.com) [Shanghai]
+### [Citi](https://www.citi.com) [Shanghai🇨🇳]
 >Leading Multinational Banking Group
 
 *Jul. 2013 – Mar. 2015*
@@ -72,13 +72,17 @@ Senior Software Engineer
 
 ## Contact
 
+#### WhatsApp
+<img src="./images/WhatsApp.svg">
 
-WhatsApp Me
+
 
 <img src="./images/whatsapp.jpeg" width="50%">
 
+#### Email
+<img src="./images/Gmail.svg">
 
-Email Me
+
 
 <img src="./images/email.png" width="50%">
 
