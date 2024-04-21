@@ -28,7 +28,7 @@ Bachelor of Engineering in Electronic Information
 *Sep. 2009 - Jun. 2013*
 
 ## Working Experience
-### [China CITIC Bank International Ltd](https://www.cnbinternational.com) [Hong Kong]
+### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong]
 
 *Mar. 2020 – Now*
 
