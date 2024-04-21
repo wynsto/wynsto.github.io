@@ -2,7 +2,9 @@
 
 ## Education
 
-**[The University of Hong Kong](http://www.hku.hk)**
+---
+
+**[The University of Hong Kong 香港大学](http://www.hku.hk)**
 
 
 Master of Science (Computer Science)
@@ -12,9 +14,8 @@ Master of Science (Computer Science)
 ---
 
 
-
-**[Sichuan University](http://www.scu.edu.cn)**
-
+**[Sichuan University 四川大学](http://www.scu.edu.cn)**
+>Project 985
 
 Bachelor of Engineering in Electronic Information
 
@@ -26,7 +27,7 @@ Bachelor of Engineering in Electronic Information
 
 ---
 
-### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong🇭🇰]
+### [China CITIC Bank International Ltd 中信银行国际](https://www.cncbinternational.com) [Hong Kong🇭🇰]
 
 
 >Hong Kong-based full-service commercial bank with more than 100 years history
@@ -40,13 +41,13 @@ Software Engineer
 PBG Business Transformation/Tech Chapter
 
 #### Projects:
-* inMotion remittance
-* inMotion transfer
-* inMotion EDDA Add Money
-* inMotion/PIB limit class revamp
-* inMotion E-Laisee
-* inMotion time deposit
-* inMotion MONOPOLY Deposit and Top Up feature
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] remittance
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] transfer
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] EDDA Add Money
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html]/PIB limit class revamp
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] E-Laisee
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] time deposit
+* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] MONOPOLY Deposit and Top Up feature
 
 ---
 
@@ -66,9 +67,9 @@ Software Engineer
 ---
 
 
-### [Baidu](https://www.baidu.com) [Shanghai🇨🇳]
+### [Baidu 百度](https://www.baidu.com) [Shanghai🇨🇳]
 
->Leading Search Engine/Artifical Intelligece Corporation in China
+>Leading Search Engine/Artifical Intelligence Corporation in China
 
 *Mar 2015 – Aug  2016*
 
@@ -76,10 +77,11 @@ Senior Software Engineer
 #### Projects
 * UAQ (百度速度监测平台)
 * APM (Application Performance Management System)
+* [Baidu Cloud Platform](https://intl.cloud.baidu.com/)
 
 ---
 
-### [Citi](https://www.citi.com) [Shanghai🇨🇳]
+### [Citi 花旗金融](https://www.citi.com) [Shanghai🇨🇳]
 
 >Leading Multinational Banking Group
 
@@ -87,9 +89,9 @@ Senior Software Engineer
 
 Senior Software Engineer
 #### Projects:
-* CitiVelocity Marketbuzz
-* CitiVelocity Video
-* CitiVelocity Indicies
+* [CitiVelocity](https://www.citivelocity.com) Marketbuzz
+* [CitiVelocity](https://www.citivelocity.com)  Video
+* [CitiVelocity](https://www.citivelocity.com)  Indicies
 
 ---
 
