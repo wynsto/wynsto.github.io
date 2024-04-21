@@ -71,15 +71,14 @@ Senior Software Engineer
 * CitiVelocity Indicies
 
 ## Contact
-
-#### WhatsApp
+### WhatsApp
 <img src="./images/WhatsApp.svg">
 
 
 
 <img src="./images/whatsapp.jpeg" width="50%">
 
-#### Email
+### Email
 <img src="./images/Gmail.svg">
 
 
