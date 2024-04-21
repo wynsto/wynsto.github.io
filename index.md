@@ -8,7 +8,7 @@
 Master of Science (Computer Science)
 
 *Sep. 2016 - Dec. 2018*
-___
+---
 
 
 
@@ -18,7 +18,7 @@ ___
 Bachelor of Engineering in Electronic Information
 
 *Sep. 2009 - Jun. 2013*
-___
+---
 
 ## Working Experience
 ### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong🇭🇰]
@@ -42,7 +42,7 @@ PBG Business Transformation/Tech Chapter
 * inMotion E-Laisee
 * inMotion time deposit
 * inMotion MONOPOLY Deposit and Top Up feature
-___
+---
 
 
 ### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore🇸🇬]
@@ -56,7 +56,7 @@ Software Engineer
 #### Projects
 * Algo Trading System
 * Risk Management System
-___
+---
 
 
 ### [Baidu](https://www.baidu.com) [Shanghai🇨🇳]
@@ -69,7 +69,7 @@ Senior Software Engineer
 #### Projects
 * UAQ (百度速度监测平台)
 * APM (Application Performance Management System)
-___
+---
 
 ### [Citi](https://www.citi.com) [Shanghai🇨🇳]
 ---
@@ -82,7 +82,7 @@ Senior Software Engineer
 * CitiVelocity Marketbuzz
 * CitiVelocity Video
 * CitiVelocity Indicies
-___
+---
 
 ## Contact
 ### WhatsApp
