@@ -4,7 +4,6 @@
 
 **[The University of Hong Kong](http://www.hku.hk)**
 
----
 
 Master of Science (Computer Science)
 
@@ -16,7 +15,6 @@ Master of Science (Computer Science)
 
 **[Sichuan University](http://www.scu.edu.cn)**
 
----
 
 Bachelor of Engineering in Electronic Information
 
@@ -30,7 +28,6 @@ Bachelor of Engineering in Electronic Information
 
 ### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong🇭🇰]
 
----
 
 >Hong Kong-based full-service commercial bank with more than 100 years history
 
@@ -56,8 +53,6 @@ PBG Business Transformation/Tech Chapter
 
 ### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore🇸🇬]
 
----
-
 >Leading Singaporean Proprietary Trading Firm
 
 *Jun. 2018 – Mar. 2020*
@@ -72,7 +67,7 @@ Software Engineer
 
 
 ### [Baidu](https://www.baidu.com) [Shanghai🇨🇳]
----
+
 >Leading Search Engine/Artifical Intelligece Corporation in China
 
 *Mar 2015 – Aug  2016*
@@ -85,7 +80,7 @@ Senior Software Engineer
 ---
 
 ### [Citi](https://www.citi.com) [Shanghai🇨🇳]
----
+
 >Leading Multinational Banking Group
 
 *Jul. 2013 – Mar. 2015*
