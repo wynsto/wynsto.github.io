@@ -3,25 +3,33 @@
 ## Education
 
 **[The University of Hong Kong](http://www.hku.hk)**
+
 ---
 
 Master of Science (Computer Science)
 
 *Sep. 2016 - Dec. 2018*
+
 ---
 
 
 
 **[Sichuan University](http://www.scu.edu.cn)**
+
 ---
 
 Bachelor of Engineering in Electronic Information
 
 *Sep. 2009 - Jun. 2013*
+
 ---
 
 ## Working Experience
+
+---
+
 ### [China CITIC Bank International Ltd](https://www.cncbinternational.com) [Hong Kong🇭🇰]
+
 ---
 
 >Hong Kong-based full-service commercial bank with more than 100 years history
@@ -42,11 +50,14 @@ PBG Business Transformation/Tech Chapter
 * inMotion E-Laisee
 * inMotion time deposit
 * inMotion MONOPOLY Deposit and Top Up feature
+
 ---
 
 
 ### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore🇸🇬]
+
 ---
+
 >Leading Singaporean Proprietary Trading Firm
 
 *Jun. 2018 – Mar. 2020*
@@ -56,6 +67,7 @@ Software Engineer
 #### Projects
 * Algo Trading System
 * Risk Management System
+
 ---
 
 
@@ -69,6 +81,7 @@ Senior Software Engineer
 #### Projects
 * UAQ (百度速度监测平台)
 * APM (Application Performance Management System)
+
 ---
 
 ### [Citi](https://www.citi.com) [Shanghai🇨🇳]
@@ -82,6 +95,7 @@ Senior Software Engineer
 * CitiVelocity Marketbuzz
 * CitiVelocity Video
 * CitiVelocity Indicies
+
 ---
 
 ## Contact
