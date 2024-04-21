@@ -69,6 +69,7 @@ Senior Software Engineer
 * CitiVelocity Marketbuzz
 * CitiVelocity Video
 * CitiVelocity Indicies
+
 ## Contact
 
 
