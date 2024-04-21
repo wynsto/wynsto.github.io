@@ -41,13 +41,13 @@ Software Engineer
 PBG Business Transformation/Tech Chapter
 
 #### Projects:
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] remittance
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] transfer
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] EDDA Add Money
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html]/PIB limit class revamp
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] E-Laisee
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] time deposit
-* (inMotion)[https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html] MONOPOLY Deposit and Top Up feature
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) remittance
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) transfer
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) EDDA Add Money
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html)/PIB limit class revamp
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) E-Laisee
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) time deposit
+* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) MONOPOLY Deposit and Top Up feature
 
 ---
 
