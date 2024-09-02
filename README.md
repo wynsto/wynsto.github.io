@@ -36,6 +36,9 @@ Personal Banking Group General Banking Products
 
 Software Engineer
 
+Mobile banking development
+
+Tech: JavaScript, Vue.js, Java
 
 ### [Grasshopper Pte Ltd](https://grasshopperasia.com) [Singapore]
 
@@ -43,6 +46,10 @@ Software Engineer
 
 Software Engineer
 
+low lattency trading system
+risk management system
+
+Tech: JavaScript, AngularJS, Angular, Python, C++
 
 ### [Baidu](https://www.baidu.com) [Shanghai]
 
@@ -50,10 +57,16 @@ Software Engineer
 
 Senior Software Engineer
 
+Cloud platform of Application performance management
+
+Tech: PHP, JavaScript, Reactjs, AngularJS, Java
+
 ### [Citi](https://www.citi.com) [Shanghai]
 
 *Jul. 2013 – Mar. 2015*
 
 Senior Software Engineer
 
+content, data, analytics and trading platform for Institutional and Corporate clients.
 
+Tech: JavaScript, Java
