@@ -41,13 +41,9 @@ Software Engineer
 PBG Business Transformation/Tech Chapter
 
 #### Projects:
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) remittance
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) transfer
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) EDDA Add Money
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html)/PIB limit class revamp
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) E-Laisee
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) time deposit
-* [inMotion](https://www.cncbinternational.com/personal/e-banking/inmotion/en/index.html) MONOPOLY Deposit and Top Up feature
+inMotion
+
+Tech: JavaScript, Vue.js, Java
 
 ---
 
@@ -64,7 +60,10 @@ Software Engineer
 * Algo Trading System
 * Risk Management System
 
+Tech: JavaScript, AngularJS, Angular, Python, C++
+
 ---
+
 
 
 ### [Baidu 百度中国](https://www.baidu.com) [Shanghai🇨🇳]
@@ -79,6 +78,8 @@ Senior Software Engineer
 * APM (Application Performance Management System)
 * [Baidu Cloud Platform](https://intl.cloud.baidu.com/)
 
+Tech: PHP, JavaScript, Reactjs, AngularJS, Java
+
 ---
 
 ### [Citi 花旗金融](https://www.citi.com) [Shanghai🇨🇳]
@@ -90,8 +91,8 @@ Senior Software Engineer
 Senior Software Engineer
 #### Projects:
 * [CitiVelocity](https://www.citivelocity.com) Marketbuzz
-* [CitiVelocity](https://www.citivelocity.com)  Video
-* [CitiVelocity](https://www.citivelocity.com)  Indicies
+
+Tech: JavaScript, Java
 
 ---
 
